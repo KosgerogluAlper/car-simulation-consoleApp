@@ -45,7 +45,8 @@ namespace Car.Simulation
             }
             else if (a > b)
             {
-                Console.WriteLine("\tYou Win,earned 40.000$");
+                Console.WriteLine("\tYou Win,earned 30.000$");
+
                 Cars.money += 30000;
                 BaseClass.LineChanger(Cars.money, "../../Cartext.txt", 1);
             }
