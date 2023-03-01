@@ -1,0 +1,8 @@
+C:\Users\akosk\source\repos\Car.Simulation\Car.Simulation\obj\Debug\Car.Simulation.csproj.AssemblyReference.cache
+C:\Users\akosk\source\repos\Car.Simulation\Car.Simulation\obj\Debug\Car.Simulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\akosk\source\repos\Car.Simulation\Car.Simulation\obj\Debug\Car.Simulation.csproj.CoreCompileInputs.cache
+C:\Users\akosk\source\repos\Car.Simulation\Car.Simulation\bin\Debug\Car.Simulation.exe.config
+C:\Users\akosk\source\repos\Car.Simulation\Car.Simulation\bin\Debug\Car.Simulation.exe
+C:\Users\akosk\source\repos\Car.Simulation\Car.Simulation\bin\Debug\Car.Simulation.pdb
+C:\Users\akosk\source\repos\Car.Simulation\Car.Simulation\obj\Debug\Car.Simulation.exe
+C:\Users\akosk\source\repos\Car.Simulation\Car.Simulation\obj\Debug\Car.Simulation.pdb

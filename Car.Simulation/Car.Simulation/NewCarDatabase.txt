@@ -1,0 +1,31 @@
+210000
+Aston Martin DB11,225000,300
+Aston Martin Vantage,210000,320
+Audi S8,180000,290
+Bentley Flying Spur,175000,260
+BMW xDrive,185000,280
+Bugatti Chiron,400000,390
+Chevrolet Corvette C8,180000,250
+Chrysler 300C,165000,230
+Dodge HellCat,185000,260
+Dodge Challenger,175000,255
+Ferrari SF90,280000,350
+Ferrari F8,275000,345
+Fisker Karma,190000,270
+Ford Mustang,195000,280
+Honda S2000,190000,275
+Honda Type-R,205000,290
+Infiniti Q60,165000,240
+Jaguar F-Type,190000,275
+Lamborghini Aventador,290000,355
+Lamborghini Huracan,300000,365
+Lotus Evora,230000,300
+Maserati MC20,190000,270
+Mazda Rx,185000,265
+McLaren MP4-12C,275000,345
+Mercedes Maybach,200000,280
+Mercedes SL,220000,295
+Nissan GT-R,180000,260
+Rolls Royce Ghost,230000,240
+Subaru Impreza,265000,330
+Tesla S,290000,350
